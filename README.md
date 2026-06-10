@@ -1,4 +1,4 @@
-Software Corporate Trainer | Java Enthusiast
+Software Corporate Trainer| Associate Software Engineer | Java Enthusiast
 
 4+ Years of Training Experience
 Core Java, JDBC, Hibernate
